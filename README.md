@@ -22,3 +22,7 @@ tenverse.search("329991150712651776") --  <-- Fill that in with a VALID Discord 
 
 tenverse.raining_tacos(true) -- For a present
 ```
+
+# V0.2 set to release
+
+Set to release soon enough.
